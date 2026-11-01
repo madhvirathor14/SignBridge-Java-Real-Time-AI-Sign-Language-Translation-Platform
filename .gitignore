@@ -1,0 +1,8 @@
+target/
+data/*.db
+models/*.yml
+models/labels.txt
+dataset/*/*.png
+.idea/
+.vscode/
+*.iml
